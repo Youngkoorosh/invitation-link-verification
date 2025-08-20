@@ -4,5 +4,5 @@ A simple HTML-based project to practice creating a confirmation link for an invi
 
 ## 📂 Project Structure
 invitation-link 
-├── accept.html 
-└── index.html
+# ├── accept.html 
+# └── index.html
